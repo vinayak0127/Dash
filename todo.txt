@@ -1,0 +1,18 @@
+# 3 pillars
+1. dash core components
+- sliders
+- date picker
+- drop down
+- etc
+
+2. plotly graphs
+- plots
+- charts
+
+3. the call back - connect dash components and plotly graphs
+
+
+--Links--
+ --data--
+ https://drive.google.com/file/d/19xeIpigGi9ti51_GfJuRCb9GKv4nR0dB/view
+--new commit--
